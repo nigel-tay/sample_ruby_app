@@ -24,3 +24,6 @@
 
 # Prevent conflicts between Spring and Git when using Guard (Ignore Spring Files)
 /spring/*.pid
+
+# Ignore uploaded test images.
+/public/uploads
