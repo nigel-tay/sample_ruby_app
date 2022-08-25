@@ -13,7 +13,10 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
-To get started with the app, clone the repo and then install the needed gems:
+Link to live application:
+https://whispering-mesa-62670.herokuapp.com/
+
+To get started with the app locally, clone the repo and then install the needed gems:
 
 ```
 $ bundle install --without production
